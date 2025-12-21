@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+body {
+    background: #1C1C1C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+
+}
+.main-contanier {
+    padding: 20px;
+    background: #1F2937;
+    width: 450px;
+    height: 300px;
+    border-radius: 5px;
+
+
+}
+
+
+h1 {
+    font-family: "Karla", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    margin: 0;
+}
+
+h1 span {
+    color: #4ADF86;
+}
+
+
+#text {
+    font-family: "Inter", sans-serif;
+    color: rgba(255, 255, 255, 0.59);
+
+}
+
+#generate {
+    background-color: #10B981;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 35px;
+    color: white;
+ 
+
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #2F3E53;
+}
+
+.password-contanier {
+    display: flex;
+    justify-content: space-between;
+    color: #55F991;
+    text-align: center;
+}
+
+.password-contanier p {
+    background: #273549;
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+}
