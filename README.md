@@ -9,10 +9,5 @@ A simple and lightweight web application that helps you generate strong and secu
 🔐 Generate random passwords with a single click  
 🔡 Include uppercase, lowercase, numbers, and symbols  
 
-🚀 **Installation**  
-Clone the repo:  
-```bash
-git clone https://github.com/Worood11/Password_Generator.git
-```
 🛠 **Tech Used:**
 HTML5,CSS3, JavaScript
